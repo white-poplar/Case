@@ -10,8 +10,8 @@
 
 ## Features
 
-* [Webuploader](https://github.com/white-poplar/Case-library/Webuploader/)
-* [~~Jcrop~~](https://github.com/white-poplar/Case-library/Jcrop/)
+* [Webuploader](https://github.com/white-poplar/Case-library/tree/master/Webuploader/)
+* [~~Jcrop~~](https://github.com/white-poplar/Case-library/tree/master/Jcrop/)
     
 ## License
 
